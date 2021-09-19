@@ -1,16 +1,14 @@
-### Hi there 👋
+### Harry Truong---@ameeexD 👋
 
-<!--
-**HarryxDD/HarryxDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Harry. A Software Developer from Danang, Vietnam. I am currently studying at university. 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Computer Science and Engineering
+- 💬 Talk to me about code
+- 📫 How to reach me: Contact me on <a href="https://www.instagram.com/">Instagram</a> or <a href="mailto:vu.truong200201@vnuk.edu.vn">Send an Email</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=HarryxDD/HarryxDD" alt="Visitors Counter">
+</p>
+
+
+
